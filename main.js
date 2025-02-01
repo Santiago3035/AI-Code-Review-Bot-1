@@ -1,0 +1,1 @@
+console.log("AI Code Review Bot запущено!");
